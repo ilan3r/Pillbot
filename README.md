@@ -6,3 +6,5 @@ the robot alert shuts off and the clock resumes for the user to take their next 
 Using the Lego EV3 Robot, sensors, and motors. Coded in ROBOTC. Built using miniature aluminum extrusions and recycled materials.  
 This was a group project through a first-year engineering course, built in collaboration with Aly Ahmed, Bishoy Hani Abdelnour, 
 and Uday Roy. 
+
+![](pillbot.png)
